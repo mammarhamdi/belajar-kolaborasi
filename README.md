@@ -1,3 +1,3 @@
 # belajar-kolaborasi
 
-Belajar coding asyik
+Belajar coding asyik sekali di Dicoding.
